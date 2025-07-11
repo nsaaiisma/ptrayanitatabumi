@@ -1,0 +1,1 @@
+<img src="{{ asset($header->logo ? '/storage/' . $header->logo : 'images/img-logo.png') }}" class="w-20 h-20 object-cover rounded-full" alt="Logo">
