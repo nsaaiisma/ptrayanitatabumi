@@ -34,7 +34,7 @@ class ProductController extends Controller
             'name' => 'required|string|max:255',
             'category' => 'required|string',
             'description' => 'required|string',
-            'price' => 'required|numeric',
+            'price' => 'required|string',
             'location' => 'required|string',
             'size' => 'required|string',
             'theme' => 'required|string',

@@ -161,7 +161,7 @@ Product
 				</div>
 				<div class="mb-4">
 					<label for="price" class="block text-sm font-medium text-gray-700">Price</label>
-					<input type="number" name="price" id="price" class="mt-1 p-2 border border-gray-300 rounded-md w-full">
+					<input type="text" name="price" id="price" class="mt-1 p-2 border border-gray-300 rounded-md w-full">
 				</div>
 				<div class="mb-4">
 					<label for="location" class="block text-sm font-medium text-gray-700">Location</label>
